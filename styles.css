@@ -1,0 +1,14 @@
+.display{
+    display: flex;
+    margin-bottom: 20px;
+}
+.score-container{
+    margin-right: 20px;
+}
+#result-message{
+    margin-bottom: 20px;
+}
+.choice button{
+    margin-right: 10px;
+    font-size: 15px;
+}
